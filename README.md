@@ -43,7 +43,6 @@ Swiggy Clone is a mobile application that replicates the core functionality of a
 ⚙️ Installation
 
 1.Clone the Repository
-```bash
 git clone <repository-url>
 
 2.Install Dependencies
