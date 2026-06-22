@@ -43,17 +43,22 @@ Swiggy Clone is a mobile application that replicates the core functionality of a
 ⚙️ Installation
 
 1.Clone the Repository
+
 git clone <repository-url>
 
 2.Install Dependencies
+
 npm install
 
 3.Start Metro
+
 npm start
 
 4.Run the Application
+
 Android:
 npm run android
+
 
 
 🔮 Future Enhancements
