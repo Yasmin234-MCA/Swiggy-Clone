@@ -62,10 +62,11 @@ npm run android
 
 
 🔮 Future Enhancements
+
 💳 Payment gateway integration
-❤️ Wishlist functionality
+
 📍 Live order tracking
-🔔 Push notifications
+
 🌐 Backend API integration
 
 🚧 Under Development
